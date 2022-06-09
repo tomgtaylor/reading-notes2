@@ -93,37 +93,3 @@ Methods:
 
         Methods represent how people interact with an object.
 
- **Javascript Instructions**
-
- Statements:
-
-        An individual step or instruction.
-        Ends with a ;
-        A script is a set of instruction that a computer can follow one by one.
-
- Comments:
-
-        Used to clarify or make your code easier to understand.
-        Also used to help others reading your code to understand your code.
-
-Variable: 
-
-        A variable stores data that can vary or change each time a script runs.
-
-How to declare a variable
-
-            let       +       keyWord
-        variable keyword + variable name;
-       
-
-Assigning value to a variables.
-
-            keyWord   =      10;
-        variable name = variable value
-
-Data Types:
-
-    Numeric:    number data
-    String:     character data
-    Boolean:    true or false
-
