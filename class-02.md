@@ -1,7 +1,5 @@
-# Class 01 
+# Class 02
 
 ## HTML
 
-
 ## JavaScript
-
