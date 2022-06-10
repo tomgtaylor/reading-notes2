@@ -103,3 +103,9 @@ Data Types:
     Numeric:    number data
     String:     character data
     Boolean:    true or false
+
+[Previous Page](tomgtaylor.github.io/reading-notes2/class-01)    ||    [Next Page](tomgtaylor.github.io/reading-notes2/class-03) <br>
+
+---
+
+[HOME](tomgtaylor.github.io/reading-notes2) <br>

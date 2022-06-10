@@ -93,3 +93,7 @@ Methods:
 
         Methods represent how people interact with an object.
 
+[Previous Page](tomgtaylor.github.io/reading-notes2)    ||    [Next Page](tomgtaylor.github.io/reading-notes2/class-02) <br>
+
+---
+[HOME](tomgtaylor.github.io/reading-notes2) <br>
