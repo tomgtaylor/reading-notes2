@@ -157,6 +157,11 @@ Parameters are values that need to be included inside function parentheses ().
     const myText = 'I am a string';
     const newString = myText.replace('string', 'sausage');
 
+## Things I want to know more about
+
+- Functions. I want to know more about practical usage.
+- CSS positioning. This seems really useful to learn more about.
+
 [Previous Page](https://tomgtaylor.github.io/reading-notes2/class-03)    ||    [Next Page](https://tomgtaylor.github.io/reading-notes2/class-05) <br>
 
 ---
