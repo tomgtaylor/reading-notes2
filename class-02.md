@@ -2,7 +2,7 @@
 
 ## HTML
 
-### Chapter 2 - Text
+
 
 #### Headings
 
@@ -56,21 +56,11 @@
     <cite>  when you reference a book, film, paper, etc.
     <dfn>   used when explaining new terminology in a doc.
 
-#### Author details
-
-
-#### Changes to content
-
-
-
-### Chapter 10 - 
-
-
+---
 
 ## JavaScript
 
-### Chapter 2 - Basic JavaScript Instructions
- **Javascript Instructions**
+**Javascript Instructions**
 
  Statements:
 
