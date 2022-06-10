@@ -4,7 +4,7 @@
 
 | Class # | Page Title and Links |  
 | ----------- | ----------- |
-| Class 1 | [Intro HTML and JavaScript](https://tomgtaylor.github.io/reading-notes2/class-01.md)
+| Class 1 | [Intro HTML and JavaScript](https://tomgtaylor.github.io/reading-notes2/class-01)
 | Class 2 | [Basics of HTML, CSS & JS](https://tomgtaylor.github.io/reading-notes2/class-02)
 | Class 3 | [HTML Lists, CSS Boxes, JS Control Flow](https://tomgtaylor.github.io/reading-notes2/class-03)
 | Class 4 | [HTML Links, CSS Layout, JS Functions](https://tomgtaylor.github.io/reading-notes2/class-04)
