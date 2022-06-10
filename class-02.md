@@ -1,4 +1,4 @@
-# Class 02
+# Class 02 - Basics of HTML, CSS & JS
 
 ## HTML
 

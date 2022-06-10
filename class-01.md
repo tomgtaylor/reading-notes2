@@ -1,4 +1,4 @@
-# Class 01
+# Class 01 - Intro HTML and JavaScript
 
 ## HTML
 
