@@ -104,8 +104,8 @@ Data Types:
     String:     character data
     Boolean:    true or false
 
-[Previous Page](tomgtaylor.github.io/reading-notes2/class-01)    ||    [Next Page](tomgtaylor.github.io/reading-notes2/class-03) <br>
+[Previous Page](https://tomgtaylor.github.io/reading-notes2/class-01)    ||    [Next Page](https://tomgtaylor.github.io/reading-notes2/class-03) <br>
 
 ---
 
-[HOME](tomgtaylor.github.io/reading-notes2) <br>
+[HOME](https://tomgtaylor.github.io/reading-notes2) <br>

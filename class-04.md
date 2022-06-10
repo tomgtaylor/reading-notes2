@@ -1,5 +1,7 @@
+# Class 04
 
-[Previous Page](tomgtaylor.github.io/reading-notes2/class-021)    ||    [Next Page](tomgtaylor.github.io/reading-notes2/class-05) <br>
+
+[Previous Page](https://tomgtaylor.github.io/reading-notes2/class-03)    ||    [Next Page](https://tomgtaylor.github.io/reading-notes2/class-05) <br>
 
 ---
-[HOME](tomgtaylor.github.io/reading-notes2) <br>
+[HOME](https://tomgtaylor.github.io/reading-notes2) <br>
