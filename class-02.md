@@ -73,7 +73,7 @@
         Used to clarify or make your code easier to understand.
         Also used to help others reading your code to understand your code.
 
-Variable: 
+Variable:
 
         A variable stores data that can vary or change each time a script runs.
 
@@ -81,7 +81,6 @@ How to declare a variable
 
             let       +       keyWord
         variable keyword + variable name;
-       
 
 Assigning value to a variables.
 
@@ -93,6 +92,11 @@ Data Types:
     Numeric:    number data
     String:     character data
     Boolean:    true or false
+
+## Things I want to know more about
+
+- Variables, and how to use them in real world applications.
+- Data types, and how this applies directly to variables.
 
 [Previous Page](https://tomgtaylor.github.io/reading-notes2/class-01)    ||    [Next Page](https://tomgtaylor.github.io/reading-notes2/class-03) <br>
 
