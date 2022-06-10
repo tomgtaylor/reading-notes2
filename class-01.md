@@ -93,6 +93,13 @@ Methods:
 
         Methods represent how people interact with an object.
 
+## Things I want to know more about
+
+- More about flowcharts.
+- Understand more about properties, events, and methods.
+
+---
+
 [Previous Page](https://tomgtaylor.github.io/reading-notes2)    ||    [Next Page](https://tomgtaylor.github.io/reading-notes2/class-02) <br>
 
 ---
