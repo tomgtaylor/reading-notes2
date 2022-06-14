@@ -1,4 +1,4 @@
-# Class 07 - HTML Tables and JS Constructor Functions
+# Class 07 - HTML Tables, OOP, and JS Constructor Functions
 
 ## Domain Modeling
 
@@ -15,37 +15,90 @@ Example of domain modeling below:
 
 ---
 
-### Defining a constructor + intitialize properties
+## HTML Tables
 
-One needs to use a constructor function to summarize JS representation of the object one is working with.
-
-    Property        Data            Type
-    theRating       1 to 10        Number
-    hasAction     true or false    Boolean
-
-### Generate Random Numbers
-
-    JS library uses Math.random()
-
-### Calculate daily likes
-
-    If meausured in Likes, 
-
-## HTML Table Basics
+A table consists of both rows and columns. Table tags include:
 
 
-## Introducing Constructors
+    Table tags include:
+
+    <table> table tag
+    <td>    table data
+    <tr>    table row
+    <th>    table header
+    <col>   column tag
+    <colgroup> tag nests <col> tags within
+
+    
+    1. First of all, make a local copy of blank-template.html and minimal-table.css in a new directory on your local machine.
+    2. The content of every table is enclosed by these two tags : <table></table>. Add these inside the body of your HTML.
+    3. The smallest container inside a table is a table cell, which is created by a <td> element ('td' stands for 'table data'). Add the following inside your table tags:
+
+    <td> Hi, I'm your first cell.</td>
+
+[https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics#when_should_you_not_use_html_tables] (Link to Mozilla about this)
+
+---
+
+Javascript objects
+
+### Defining a constructor + intitialize properties 
+<br>
+
+**Remember: objects are key/value pairs** 
+
+<br>
+
+While object literals are used for creating one object, constructors are used to creating multiple objects. While objects literals require all objects to be changed individually, constructors enable you to change properties for all objects. Example of a constructor below:
+
+     1. Make function called "createPerson(name)". 
+     2. Add two members: a property name and method "introduceSelf().
+     See below example:
 
 
-## Object Prototypes Using a Constructor
+      function createPerson(name) {
+        const obj = {};
+        obj.name = name;
+        obj.introduceSelf = function() {
+        console.log(`Hi! I'm ${this.name}.`);
+        }
+        return obj;
+      }
+ "createPerson()" takes a parameter "name" to set the value of the name property, but the value of the introduceSelf() method will be the same for all objects created using this function. Then one can create many objects by reusing this. 
 
+        const salva = createPerson('Salva');
+        salva.name;
+        salva.introduceSelf();
+
+        const frankie = createPerson('Frankie');
+        frankie.name;
+        frankie.introduceSelf();
+
+Constructors, by convention, start with a capital letter and are named for the type of object they create.
+
+     function Person(name) {
+     this.name = name;
+     this.introduceSelf = function() {
+     console.log(`Hi! I'm ${this.name}.`);
+      }
+    }
+
+To call Person() as a constructor, we use new:
+
+    const salva = new Person('Salva');
+    salva.name;
+    salva.introduceSelf();
+
+    const frankie = new Person('Frankie');
+    frankie.name;
+    frankie.introduceSelf();
 
 ---
 
 ## Things I want to know more about
 
-- More about how to use Dom properly.
-- Practical usage of objects for web pages / apps.
+- How to use objects correctly
+- How to use constructors efficiently
 
 [Previous Page](https://tomgtaylor.github.io/reading-notes2/class-06)    ||    [Next Page](https://tomgtaylor.github.io/reading-notes2/class-08) <br>
 
