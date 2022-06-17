@@ -1,5 +1,15 @@
 # Class 10 - JS Debugging
 
+## Troubleshooting
+
+Types of error
+
+**Syntax errors**: When spelling errors in your code cause the program to stop.
+
+**Logic errors**: When the syntax right, but code gives incorrect results.
+
+
+
 ---
 
 ## Things I want to know more about
