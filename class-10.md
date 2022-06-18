@@ -31,16 +31,9 @@ Available menu options vary among browsers
 - Copy/Copy as HTML. Copy the currently selected HTML.
 - Some browsers also have Copy CSS Path and Copy XPath available, to allow you to copy the CSS selector or XPath expression that would select the current HTML element.
 
-### Eploring the CSS editor
-
-
-
----
-
 ## Things I want to know more about
 
-- 
-- 
+- How to use debugging properly.
 
 [Previous Page](https://tomgtaylor.github.io/reading-notes2/class-09)    ||    [Next Page](https://tomgtaylor.github.io/reading-notes2/class-11) <br>
 
